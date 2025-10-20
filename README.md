@@ -19,3 +19,10 @@ A curated set of helpful resources and techniques I've collected for efficient p
 ### OpenAI
 
 - [Prompt examples](https://platform.openai.com/docs/examples)
+
+## API Consoles
+
+- [Claude Console](https://platform.claude.com/)
+- [OpenAI’s platform](https://platform.openai.com/)
+- [Google AI Studio](https://aistudio.google.com/)
+- [Grok Console](https://console.x.ai/)
